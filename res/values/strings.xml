@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">打包工具</string>
+    <string name="package_tool">Android打包</string>
+    <string name="connect">connect</string>
+
+</resources>
